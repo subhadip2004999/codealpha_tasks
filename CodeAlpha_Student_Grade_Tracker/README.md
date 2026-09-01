@@ -11,8 +11,7 @@ A simple Java Spring Boot application for tracking student grades. This project 
 ## Technologies
 
 - Java
-- Spring Boot
-- Maven (or Gradle if configured)
+- Maven 
 
 ## Project Structure
 
