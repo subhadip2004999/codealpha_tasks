@@ -6,7 +6,6 @@ A simple Java Spring Boot application for tracking student grades. This project 
 
 - Create, read, update, and delete student records
 - Store and calculate grades for students
-- Simple REST API endpoints (Spring Boot)
 
 ## Technologies
 
@@ -35,25 +34,12 @@ Run locally:
 
    java -jar target/student_grade_tracker-0.0.1-SNAPSHOT.jar
 
-3. The API should be available at http://localhost:8080 (default Spring Boot port)
-
-Note: Adjust commands if the repository uses Gradle or a different build setup.
-
 ## Tests
 
 Run the test suite with:
 
     mvn test
 
-## Notes
-
-- The repository has a compiled JAR and some compiled class files checked in. Consider removing build artifacts and adding a proper .gitignore to keep the repo source-only.
-- There's an incorrectly named README file `README>md` — this README replaces that with a properly named `README.md`.
-
-## License
-
-Include a license as appropriate (e.g., MIT). Replace this section with a specific license if desired.
-
 ## Author
 
-Created by CodeAlpha internship contributor.
+Created by Subhadip Biswas for CodeAlpha internship.
