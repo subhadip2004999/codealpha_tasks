@@ -5,7 +5,7 @@ Internship program at CodeAlpha. Java programming projects.
 ## Projects
 
 - CodeAlpha_Stock_Trading_Platform/ - A Java project implementing a basic stock trading platform.
-- CodeAlpha_Student_Grade_Tracker/ - Student grade tracker project (see its own README)
+- CodeAlpha_Student_Grade_Tracker/ - Student grade tracker project which takes grades and shows summary.
 
 ## About
 
